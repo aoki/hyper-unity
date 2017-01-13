@@ -1,6 +1,6 @@
 {
   "name": "hyper-unity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hyper unity tabs style",
   "main": "index.js",
   "repository": "ssh://git@github.com/ringohub/hyper-unity.git",
