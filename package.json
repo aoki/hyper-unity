@@ -1,0 +1,9 @@
+{
+  "name": "hyper-unity",
+  "version": "1.0.0",
+  "description": "Hyper unity tabs style",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/ringohub/hyper-unity.git",
+  "author": "Yoshiki Aoki <yoshiki_aoki@dwango.co.jp>",
+  "license": "MIT"
+}
