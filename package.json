@@ -4,6 +4,18 @@
   "description": "Hyper unity tabs style",
   "main": "index.js",
   "repository": "ssh://git@github.com/ringohub/hyper-unity.git",
-  "author": "Yoshiki Aoki <yoshiki_aoki@dwango.co.jp>",
-  "license": "MIT"
+  "author": {
+    "name": "Yoshiki Aoki",
+    "email": "ringohub@gmail.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "theme"
+  ]
 }
