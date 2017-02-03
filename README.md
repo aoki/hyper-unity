@@ -1,5 +1,7 @@
 # hyper-unity
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ringohub/hyper-unity.svg)](https://greenkeeper.io/)
+
 Unity tab style for the [hyper](https://hyper.is/).
 
 - Remove border from tabs.
